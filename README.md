@@ -1,2 +1,2 @@
-# ibm_web_dev
+# Ibm_webd_proj
 Bridging the Distance: Accessible Voting Solutions - Empowering every citizen to cast their vote, regardless of location.
